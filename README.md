@@ -1,14 +1,17 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository holds a Power Platform solution package of a sample power app for demonstration purposes. It was built to encourage ideation of possible solutions using Azure OpenAI GPT models.
 
-As the maintainer of this project, please make a few updates:
+This sample power apps was used to help customers envision what is possible and generate ideas for themselves. 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The functionality of this app include:
+- generating sample patients
+- training by asking GPT to be the patient
+- training by asking GPT to report tests and examinations on the patient
+- training by asking GPT to simulate procedures performed on the patient
+- training on taking patient history and notes
+
+It can be used for customer presentations.
 
 ## Contributing
 
